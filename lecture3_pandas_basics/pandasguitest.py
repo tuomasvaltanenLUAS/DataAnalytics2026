@@ -3,7 +3,10 @@ import pandas as pd
 
 # load the data
 df = pd.read_csv("houses.csv")
-df
+
+# note: pandasgui might not work with MacOS (use dtale instead)
+# for MacOS: check -> https://www.kdnuggets.com/2023/06/revolutionizing-data-analysis-pandasgui.html
+# in pandasgui: right-click a column to select color by column
 
 # let's also test pandasGUI
 # pip install pandasGUI
