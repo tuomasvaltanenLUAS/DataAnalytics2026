@@ -1,0 +1,17 @@
+[
+   {
+      "name":"Helsinki",
+      "population":632000,
+      "country":"Finland"
+   },
+   {
+      "name":"London",
+      "population":8982000,
+      "country":"England"
+   },
+   {
+      "name":"Paris",
+      "population":2148000,
+      "country":"France"
+   }
+]

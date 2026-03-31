@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1, 
+		"name": "Rovaniemi",
+		"contact": {
+			"phone": "+358123456789",
+			"email": "visit@rovaniemi.com"
+		
+		}
+		
+	},
+	{
+		"id": 2, 
+		"name": "Helsinki",
+		"contact": {
+			"phone": "+358987654321",
+			"email": "info@helsinki.fi"
+		
+		}
+		
+	}
+]

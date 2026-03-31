@@ -1,0 +1,14 @@
+<cities>
+	<city>
+		<name>Rovaniemi</name>
+		<population>63032</population>
+		<tax_percentage>21.5</tax_percentage>
+		<area_km2>801675</area_km2>
+	</city>
+	<city>
+		<name>Helsinki</name>
+		<population>657674</population>
+		<tax_percentage>18.5</tax_percentage>
+		<area_km2>71648</area_km2>
+	</city>
+</cities>
